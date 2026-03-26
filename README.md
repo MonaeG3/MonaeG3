@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Shmyra Green
 
-<!--
-**MonaeG3/MonaeG3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science graduate with a strong background in data analysis, system troubleshooting, and process improvement.
 
-Here are some ideas to get you started:
+## Technical Skills
+Java | Python | SQL | MySQL | Tableau | C++ | C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus Areas
+- Data Analysis
+- Systems & Technical Analysis
+- Database Design
+- Process Optimization
+
+## Featured Projects
+- Online Retail Database System (MySQL)
+- Inventory Management System (Java)
+- Fibonacci Algorithm Performance Analysis (Java)
+
+## Professional Experience
+Case Management Analyst at Verizon with experience analyzing service data, troubleshooting system issues, and improving operational performance.
+
+## Connect With Me
+LinkedIn: https://www.linkedin.com/in/shmyra-green-4328011b4
