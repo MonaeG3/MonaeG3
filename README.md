@@ -1,6 +1,6 @@
 # Hi, I'm Shmyra Green
 
-Computer Science graduate with experience analyzing service data, troubleshooting system issues, and supporting process improvements. Skilled in SQL, Python, and Tableau with a focus on improving system performance and enabling data-driven decision making.
+Computer Science graduate with experience analyzing service data, troubleshooting system issues, and supporting process improvements. Skilled in SQL, Python, and Tableau with a focus on improving system performance and supporting data-driven decision making.
 
 ## Technical Skills
 Java | Python | SQL | MySQL | Tableau | C++ | C#
